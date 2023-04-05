@@ -1,0 +1,24 @@
+{
+  "name": "codex-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^0.0.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "langchain": "^0.0.48",
+    "mongodb": "^5.1.0",
+    "multer": "1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
