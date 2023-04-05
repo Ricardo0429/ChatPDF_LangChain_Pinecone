@@ -1,5 +1,5 @@
 # ChatPDF_LangChain_Pinecone
-Chatting with PDF documents : LangChain and Pinecone integrated ( Pinecone API key is required )
+Chatting with PDF documents : LangChain and Pinecone, OpenAI ChatGPT,  integrated ( Pinecone API key is required )
 
 Original project is here :https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 
